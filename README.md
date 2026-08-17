@@ -1,3 +1,4 @@
 # Mods-fps-fabric-pack
-Pack de mods para fabric 1.21.1
-link : https://www.mediafire.com/file/5l8wyr0v28unzfv/mods%2528PC%2529.zip/file
+Packs de mods para fabric 1.21.1
+pack de mods principal: https://www.mediafire.com/file/pgqjvyyajz9co0r/Fabric+-+-Más+allá+de+la+Optimización-.zip/file
+Pack de mods secundarios ( extras ) : https://www.mediafire.com/file/c9p51yto47s165c/Fabric+-+Extras+Mods+Fps+.zip/file
